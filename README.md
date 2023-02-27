@@ -1,4 +1,4 @@
-#Projeto exibição de jogos
+# Projeto exibição de jogos
 
 > Status do projeto: Em desenvolvimento pelos alunos do IFRO
 
